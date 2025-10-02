@@ -240,3 +240,7 @@ Now you should be able to toggle the ledstrip on and off! 🎉
 I hope this guide was clear, and you can remotely toggle your nodeMCU with telegram without any problems!
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/d4119663-1259-4a45-a5ee-4f293d28f865" />
+
+
+#bronnen
+https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs 
